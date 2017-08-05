@@ -2,3 +2,16 @@ body{
   background-color: #0DCBA8;
   color: black;
 }
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: white;
+}
+
+.cat-climate {
+  background-color: teal;
+  text-decoration-color: white;
+}
