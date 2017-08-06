@@ -2,9 +2,9 @@
 
 # Personal Portfolio Website.
 
-#### {A simple portfolio website.}, {Friday 4th August 2017.}
+#### A simple portfolio website., Friday 4th August 2017.
 
-#### By **{Ndolo Shadrack Winter}**
+#### By **Ndolo Shadrack Winter**
 
 ## Description
 {This is a porfolio website of me and explains who I am is and what I do. The website showcases all the projects I have done during my first week in Moringa School. I have incorporated basic parts of front-end web development languages i.e. HTML and CSS. The website has three main sections mainly:
