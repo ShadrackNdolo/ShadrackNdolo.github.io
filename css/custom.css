@@ -24,15 +24,41 @@ body{
 }
 
 .important {
-  color: red;
+  color: green;
 }
 
 .unimportant {
-  color: white;
+  color: red;
 }
 
 .cat-climate {
   background-color: teal;
   text-decoration-color: white;
 }
-/*yatatatatatatatatatatatatatatatat*/
+/*.page_stuff
+{
+  padding: 10px;
+
+}*/
+
+.col-md-6 p {
+
+  font-size: 20px
+}
+
+.imageline{
+border: 4px solid white;
+padding: 6px;
+margin: 20px;
+color: white;
+}
+
+.col-md-6   li{
+  font-style: italic;
+  /*font-size: 2em;*/
+
+}
+.col-md-6 ol
+{
+  font-size: 2em;
+}
