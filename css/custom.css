@@ -13,6 +13,12 @@ body{
   background-size: cover;
 }
 
+.row{
+  font-size: 12px;
+  font-family:  fantasy;
+  color: white;
+}
+
 .important {
   color: red;
 }
