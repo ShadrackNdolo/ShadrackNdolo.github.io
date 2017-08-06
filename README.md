@@ -7,20 +7,18 @@
 #### By **Ndolo Shadrack Winter**
 
 ## Description
-{This is a porfolio website of me and explains who I am is and what I do. The website showcases all the projects I have done during my first week in Moringa School. I have incorporated basic parts of front-end web development languages i.e. HTML and CSS. The website has three main sections mainly:
+This is a porfolio website of me and explains who I am is and what I do. The website showcases all the projects I have done during my first week in Moringa School. I have incorporated basic parts of front-end web development languages i.e. HTML and CSS. The website has three main sections mainly:
 
 * A Home Section.
 * A View Projects Section.
 * An About Section.
-}
+
 
 ## Setup/Installation Requirements
 
 * Clone or Download the repository on your command line terminal to view or edit the content. GitBash.exe for windows and Terminal for Linux.
 * Click on the following website link to view the [site](https://shadrackndolo.github.io/).
 
-
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 
 ## Known Bugs
 
@@ -35,9 +33,7 @@
 
 ### License
 
-*{MIT License
-
-Copyright (c) [2017] [ShadrackNdolo]
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -49,8 +45,6 @@ Create a text file (typically named LICENSE or LICENSE.txt) in the root of your 
 
 Optional: Add MIT to your project's package description, if applicable (e.g., Node.js, Ruby, and Rust). This will ensure the license is displayed in package directories.
 
-Source Who's using this license?
+jQuery .NET Core Rails About Terms of Service
 
-jQuery .NET Core Rails About Terms of Service}*
-
-Copyright (c) {2017} **{https://github.com/VirginiaNdungu1}**}*
+Copyright (c) [2017] [ShadrackNdolo](https://ShadrackNdolo.github.io/).
