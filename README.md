@@ -1,6 +1,6 @@
 # ShadrackNdolo.github.io
 
-# {Personal Portfolio Website.}
+# Personal Portfolio Website.
 
 #### {A simple portfolio website.}, {Friday 4th August 2017.}
 
@@ -16,8 +16,8 @@
 
 ## Setup/Installation Requirements
 
-* Clone or Download the repository on your command line terminal to view or edit the content. [GitBash.exe for windows and Terminal for Linux.]
-* Click on the following website link to view the site. [https://shadrackndolo.github.io/] 
+* Clone or Download the repository on your command line terminal to view or edit the content. GitBash.exe for windows and Terminal for Linux.
+* Click on the following website link to view the [site](https://shadrackndolo.github.io/).
 
 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
