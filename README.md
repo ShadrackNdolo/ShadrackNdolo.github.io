@@ -25,9 +25,9 @@ This is a porfolio website of me and explains who I am is and what I do. The web
 
 ## Technologies Used
 
-*HTML 5.
-*BOOTSTRAP.
-*CSS.
+* HTML 5.
+* BOOTSTRAP.
+* CSS.
 
 
 ### License
