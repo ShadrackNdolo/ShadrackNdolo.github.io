@@ -21,7 +21,7 @@ This is a porfolio website of me and explains who I am is and what I do. The web
 
 ## Known Bugs
 
-*There are no known bugs. 
+* There are no known bugs. 
 
 ## Technologies Used
 
